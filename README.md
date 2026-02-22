@@ -15,7 +15,7 @@ Instead of just running a script, I followed a specific business-driven workflow
 ## Tools & Skills
 * **Python (Pandas):** For data manipulation and metric calculation.
 * **Matplotlib/Seaborn:** For creating the "rfm_analysis_chart" chart.
-* ![Customer Segments](rfm_analysis_chart .png)
+* ![Customer Segments](rfm_analysis_chart.png)
 
 > **Analyst's Note:** Looking at the distribution, the 'At Risk' segment is surprisingly large. 
 > This represents a significant amount of "lost revenue" that can be recovered. 
