@@ -26,5 +26,12 @@ Instead of just running a script, I followed a specific business-driven workflow
 ## Key Takeaway
 The analysis revealed that while the 'Loyal' segment is healthy, there is a significant 'At Risk' group. **My recommendation:** Before spending more on Facebook ads to find new customers, the business should focus on a re-engagement offer for this specific group.
 
+## Business Impact
+This tool isn't just for coding; it's for decision making. 
+A business owner can use the output to:
+- Launch a "Loyalty Program" for the **VIPs**.
+- Send "We miss you" discount codes to the **At Risk** segment.
+- Allocate marketing budget more efficiently by focusing on high-value customers.
+
 ---
 *If you have a dataset and want to see your own customer segments, feel free to reach out!*
