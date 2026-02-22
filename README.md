@@ -14,7 +14,13 @@ Instead of just running a script, I followed a specific business-driven workflow
 
 ## Tools & Skills
 * **Python (Pandas):** For data manipulation and metric calculation.
-* **Matplotlib/Seaborn:** For creating the "Stakeholder View" chart.
+* **Matplotlib/Seaborn:** For creating the "rfm_analysis_chart" chart.
+* ![Customer Segments](rfm_analysis_chart.png)
+
+> **Analyst's Note:** Looking at the distribution, the 'At Risk' segment is surprisingly large. 
+> This represents a significant amount of "lost revenue" that can be recovered. 
+> Instead of just looking at the numbers, I recommend the business starts with a 
+> 'Win-Back' email campaign targeting this specific group to test their responsiveness.
 * **Business Intelligence:** Applying statistical quartiles to real-world sales data.
 
 ## Key Takeaway
